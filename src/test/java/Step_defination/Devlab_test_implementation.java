@@ -177,7 +177,7 @@ public class Devlab_test_implementation {
     @When("user click on get started button")
     public void user_click_on_get_started_button() {
         // Write code here that turns the phrase above into concrete actions
-    act.send_keys(chartink.email(),)
+   // act.send_keys(chartink.email(),)
     }
     @Then("user registration for page appears")
     public void user_registration_for_page_appears() {
